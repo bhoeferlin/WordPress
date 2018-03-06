@@ -1,0 +1,6 @@
+[submodule "wp-content/themes/sydney"]
+	path = wp-content/themes/sydney
+	url = https://github.com/bhoeferlin/wp-sydney.git
+[submodule "wp-content/plugins/catalog"]
+	path = wp-content/plugins/catalog
+	url = https://github.com/bhoeferlin/catalog
